@@ -42,7 +42,7 @@ Los inversores interesados en depositar valores en cada uno, con un simple click
 
 #
 
-#### Prueba de Concepto A: Caso de Uso Monetización del Impacto
+### Prueba de Concepto A: Caso de Uso Monetización del Impacto
 Objetivo: brindar la herramienta para poder monetizar el valor (impacto) de los productos
 - Usuario: Cooperativa Coopsol www.coopsol.com.ar
 - El Bien: miel 
@@ -57,7 +57,7 @@ Objetivo: brindar la herramienta para poder monetizar el valor (impacto) de los 
     - Coopsol (o cualquiera) puede armar subastas de NFT para que pueden ser adquiridos por organizaciones, instituciones, empresas o individuos que le interese impulsar la producción apícola sustentable
     - pooles NFTs-Stablecoin incentivados por rewards aportados por organizaciones / instituciones que les interesa los retornos ambiental o sociales y encontrarían acá una herramienta transparente y apalancadora del impacto para hacerlo.
 
-#### Prueba de Concepto B: caso de uso Pre-financiación de la producción
+### Prueba de Concepto B: caso de uso Pre-financiación de la producción
 Objetivo: dotar de liquidez a las cooperativas de producción agroecológicas para que puedan prefinanciar su producción.
 - Usuario: Cooperativa Coopsol www.coopsol.com.ar
 - El Bien: miel 
@@ -71,7 +71,7 @@ Objetivo: dotar de liquidez a las cooperativas de producción agroecológicas pa
     - entrega de NFT del impacto (integración con Prueba de Concepto A)
     - Rewards aportados por organizaciones / instituciones que les interesa los retornos ambiental o sociales
 
-#### Prueba de Concepto C: Caso de Uso Retribución a donantes y contribuyentes sociales
+### Prueba de Concepto C: Caso de Uso Retribución a donantes y contribuyentes sociales
 Objetivo: Crear un mercado para dar liquidez y monetización de NFT de señalización.
 
 Hoy las plataformas de crowdfunding, los sistemas de voluntariados, etc, es decir las acciones caritativas no tienen una economía interna que pueda retribuir al donante más allá de acciones de señalización (Ej. certificados, pruebas de participación, etc.). Desarrollar economías de “help to earn” requiere generar mercados para que los token de señalización puedan ser monetizados.
