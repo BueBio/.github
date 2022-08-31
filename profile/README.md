@@ -40,6 +40,8 @@ Los inversores interesados en depositar valores en cada uno, con un simple click
 - Retribución a donantes y contribuyentes sociales
 - Inversión de triple impacto
 
+#
+
 #### Prueba de Concepto A: Caso de Uso Monetización del Impacto
 Objetivo: brindar la herramienta para poder monetizar el valor (impacto) de los productos
 - Usuario: Cooperativa Coopsol www.coopsol.com.ar
