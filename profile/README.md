@@ -50,7 +50,7 @@ Objetivo: brindar la herramienta para poder monetizar el valor (impacto) de los 
     - ii) cada frasco llevará impreso una referencia para invitar al consumidor a reclamar un NFT de impacto
     - iii) el consumidor puede reclamar estos NFT en x plazo. Luego de este plazo quedan propiedad de Coopsol
   
-  # **Sistemas de Monetización del Impacto a desarrollar**
+ **Sistemas de Monetización del Impacto a desarrollar**
     - caje de NFT por cupones de descuentos u otros beneficios tanto de Coopsol como de otros interesados en promover el impacto.
     - Coopsol (o cualquiera) puede armar subastas de NFT para que pueden ser adquiridos por organizaciones, instituciones, empresas o individuos que le interese impulsar la producción apícola sustentable
     - pooles NFTs-Stablecoin incentivados por rewards aportados por organizaciones / instituciones que les interesa los retornos ambiental o sociales y encontrarían acá una herramienta transparente y apalancadora del impacto para hacerlo.
@@ -65,7 +65,7 @@ Objetivo: dotar de liquidez a las cooperativas de producción agroecológicas pa
     - ii) Inversores pueden comprar estos NFT que representan los derechos futuros sobre el producto (físico) en las condiciones acordadas. También estos NFT pueden representar una deuda con plazos, fijación de precio, moneda y tasa acordado.
     - iii) Los NTF en el plazo programado se podrán redimir por el producto físico o por el monto acordado.  
 
-# **Sistemas de Incentivos a los Inversores a desarrollar**
+**Sistemas de Incentivos a los Inversores a desarrollar**
     - entrega de NFT del impacto (integración con Prueba de Concepto A)
     - Rewards aportados por organizaciones / instituciones que les interesa los retornos ambiental o sociales
 
@@ -79,9 +79,7 @@ Hoy las plataformas de crowdfunding, los sistemas de voluntariados, etc, es deci
     - i) a cada donante se le entrega un NFT en función del ticket donado
     - ii) disponer herramientas para que estos token de señalización (no transferibles) puedan ser depositados para extraer otro token que habilitan entradas, descuentos, etc. promocionados por comercios, empresas, etc que quieren impulsar el impacto de su políticas de RSE.
 
-![image](https://user-images.githubusercontent.com/18706780/187774688-e00f9b11-807a-41a7-b6e8-116379edb20e.png)
-
-#### 1. Landing de presentación.
+#### 1. Website.
 
 - URL Prod: https://buebio.com
 
