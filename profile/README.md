@@ -4,41 +4,25 @@
 Estimado hacedor; tu poder puede cambiar las reglas.
 Existimos para brindarte la posibilidad de cuidar el mundo creando mercados de liquidez para productos agroecológicos.
 Cuidar a las personas, proteger el suelo, cuidar el agua, preservar la vida, evitar los agroquímicos, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
-Obtenga ingresos pasivos proporcionando liquidez
-Buebio te lo pone fácil para que tu capital trabaje para ti, al mismo tiempo que estás haciendo un mundo mejor.
+Obtenga ingresos pasivos tokenizando sus productos agroecológicos y proporcionando liquidez
+Buebio te lo pone fácil para que tu capital trabaje para ti, al mismo tiempo que está resolviendo un problema gigante, dado que muy pocos prodcutos son ultra líquidos.
 
 ### 🔭 ¿Qué es BueBio?
-Buebio es una solución DeFi, un Impact Market Maker, que ayuda a generar liquidez financiera a productores agroecológicos creando un mercado para sus activos de impacto.
+Buebio es una solución financiera decentralizada, que ayuda a generar liquidez financiera de productos agroecológicos creando mercados líquidos.
 
 ### 🌱 ¿Qué problema resuelve BueBio?
 Las producciones agroecológicas respetan el ritmo de la naturaleza, sus ciclos biológicos, sus tiempos. No se puede producir en cualquier momento, ni de forma continua. Esto genera un problema de liquidez financiera a los emprendedores agroecológicos, ya que el flujo de venta y de ingresos económicos no es continuo.
-BueBio dará acceso a liquidez de forma rápida, libre y fácil pudiendo colaterizar producción futura y ampliando el mercado de activos de impacto.
-
-### 🤔 ¿Cómo resolvemos el problema?
-Resolviendo otro problema
-Un producto agroecológico porta tanto el bien (el alimento sano y rico, la prenda auténtica, etc.) como el valor (impacto por regenerar comunidades y entornos naturales). Es decir que el producto fusiona tanto el bien individual consumible como el bien común generado en su producción. Esto llevó siempre a la pretensión del que el consumidor del bien pague también por el bien común generado. BueBio cambia esto para siempre.
-BueBio brindará la herramienta para que los emprendedores puedan monetizar el impacto de sus producciones creando mercados más globales y líquidos para ellos. 
+BueBio dará acceso a liquidez de forma rápida, libre y fácil, buscando ampliar el mercado de activos de impacto.
 
 ### 💡 ¿Cómo lo haremos?
-BueBio se soporta sobre herramientas financieras descentralizadas para cambiar el paradigma de producción - consumo. Estamos alineando la tecnología, la producción y el consumo para una humanidad más saludable y un planeta habitable. La herramienta propone múltiples servicios escalables ya sea a través de vaults de acceso via NFT o a partir de la tokenización de un activo de la economía real y la creación de mercados de liquidez en mercados DeFi.
+BueBio se soporta sobre herramientas financieras descentralizadas para cambiar el paradigma de producción - consumo. Estamos alineando la tecnología, la producción y el consumo para una humanidad más saludable y un planeta habitable. La herramienta propone múltiples servicios escalables ya sea a través de de la tokenización de un activo de la economía real y la creación de mercados de liquidez en exchanges decentralizados.
 
-### 🤑 Tokenomics
-La plataforma permite, luego de un proceso descentralizado de validación, otorgar NFTs a modo de llaves para la creación de Vaults. Un Vault es una oportunidad financiera propuesta por un productor de la economía sustentable, con un modelo de negocio ODS alineado.
-
-A partir de un proceso de onbording offchain, se produce una oferta de Vault a uno o distintos validadores. Una oferta de vault es un contrato inteligente que se construye con datos de carga: una descripción, rendimiento, período, etc.
-
-Este Vault tiene el aval y aprobación de los validadores y una estructura de comunicación que manifiesta o expone un mercado de la economía sustentable a travez de un marketplace accesible y dinámico.
-
-Los inversores interesados en depositar valores en cada uno, con un simple click ya están aportando valores directamente a un productor que propone la oferta. Y, a este inversor, se le entrega un NFT de rendimiento para que oferte en un mercado secundario.
-
-### 🚀 ¿Cuáles son algunos de los Casos de Uso en BueBio?
-- Pre Financiación de producción agroecológica
-- Pre Finaciación de exportación producción agroecológica
-- Monetización del impacto
-- Pagos por servicios ambientales y sociales
-- Bonos de impacto
-- Retribución a donantes y contribuyentes sociales
-- Inversión de triple impacto
+### 🤑 ¿Cuáles son los pasos?
+1) Tokenizar producción: La plataforma permite, luego de un proceso de validación, otorgar tokens a modo de representación digital de los productos de la economía real.
+2) Agregar Liquidez: Una vez tokenizados, se permiten agregar esos tokens en exchanges decentralizados por medio de los llamados "Pools". Ejemplo: agrego 1000 tn de Harina  de Algarroba (ticker: HALGA) a un valor de "xxx USDT" en el Pool "HALGA-USDT"
+3) Vender: Al haber liquidez, los productores pueden vender su producción de forma inmediata en el momento que deseen, y recibir dólares digitales (Ej. USDT) de forma inmediata. Ya no tienen que esperar semanas para cobrar por sus ventas.
+4) Comprar: Cualquier usuario alrededor del mundo, sin límites geográficos, puede hacerse de tenencia de productos agroecológicos. Solo debe ingresar al exchange y comprar los tokens que le resulten de interés.
+5) Préstamos: Una vez logrados los pasos anteriores, la idea es que la producción tokenizada puede ser utilizada para acceder acceder a préstamos o a otros instrumentos financieros existentes. 
 
 #
 
