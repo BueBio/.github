@@ -14,7 +14,7 @@ Buebio es una solución financiera decentralizada, que ayuda a generar liquidez 
 Las producciones agroecológicas respetan el ritmo de la naturaleza, sus ciclos biológicos, sus tiempos. No se puede producir en cualquier momento, ni de forma continua. Esto genera un problema de liquidez financiera a los emprendedores agroecológicos, ya que el flujo de venta y de ingresos económicos no es continuo.
 
 ### 💡 ¿Qué solución trae BueBio?
-BueBio digitaliza la operatoria productiva, y crea mercados de liquidez universales, permitiendo a cualquier persona u organización comprar y vender dicha de forma digital dicha producción. BueBio es la forma más rápida, libre y fácil de comercializar producción.
+BueBio digitaliza la operatoria productiva, y crea mercados de liquidez universales, permitiendo a cualquier persona u organización comprar y vender dicha producción de forma digital. BueBio es la forma más rápida, libre y fácil de comercializar.
 
 
 ###  ¿Cómo lo haremos?
