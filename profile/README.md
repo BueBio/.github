@@ -1,6 +1,6 @@
 # Hola 👋. Bienvenidos a BueBio.
 
-### 🌳 Buebio: impact to earn
+### 🌳 Buebio: Digitalizando la operación productiva
 Estimado hacedor; tu poder puede cambiar las reglas.
 Existimos para brindarte la posibilidad de cuidar el mundo creando mercados de liquidez para productos agroecológicos.
 Cuidar a las personas, proteger el suelo, cuidar el agua, preservar la vida, evitar los agroquímicos, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
