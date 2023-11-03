@@ -5,16 +5,19 @@ Estimado hacedor; tu poder puede cambiar las reglas.
 Existimos para brindarte la posibilidad de cuidar el mundo creando mercados de liquidez para productos agroecológicos.
 Cuidar a las personas, proteger el suelo, cuidar el agua, preservar la vida, evitar los agroquímicos, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
 Obtenga ingresos pasivos tokenizando sus productos agroecológicos y proporcionando liquidez
-Buebio te lo pone fácil para que tu capital trabaje para ti, al mismo tiempo que está resolviendo un problema gigante, dado que muy pocos prodcutos son ultra líquidos.
+Buebio te lo pone fácil para que tu capital trabaje para ti, al mismo tiempo que está resolviendo un problema gigante, dado que muy pocos productos son ultra líquidos.
 
 ### 🔭 ¿Qué es BueBio?
 Buebio es una solución financiera decentralizada, que ayuda a generar liquidez financiera de productos agroecológicos creando mercados líquidos.
 
 ### 🌱 ¿Qué problema resuelve BueBio?
 Las producciones agroecológicas respetan el ritmo de la naturaleza, sus ciclos biológicos, sus tiempos. No se puede producir en cualquier momento, ni de forma continua. Esto genera un problema de liquidez financiera a los emprendedores agroecológicos, ya que el flujo de venta y de ingresos económicos no es continuo.
-BueBio dará acceso a liquidez de forma rápida, libre y fácil, buscando ampliar el mercado de activos de impacto.
 
-### 💡 ¿Cómo lo haremos?
+### 💡 ¿Qué solución trae BueBio?
+BueBio digitaliza la operatoria productiva, y crea mercados de liquidez universales, permitiendo a cualquier persona u organización comprar y vender dicha de forma digital dicha producción. BueBio es la forma más rápida, libre y fácil de comercializar producción.
+
+
+###  ¿Cómo lo haremos?
 BueBio se soporta sobre herramientas financieras descentralizadas para cambiar el paradigma de producción - consumo. Estamos alineando la tecnología, la producción y el consumo para una humanidad más saludable y un planeta habitable. La herramienta propone múltiples servicios escalables ya sea a través de de la tokenización de un activo de la economía real y la creación de mercados de liquidez en exchanges decentralizados.
 
 ### 🤑 ¿Cuáles son los pasos?
