@@ -3,9 +3,9 @@
 ### 🌳 Buebio: Digitalizando la operación productiva
 Estimado hacedor; tu poder puede cambiar las reglas.
 Existimos para brindarte la posibilidad de cuidar el mundo creando mercados de liquidez para productos agroecológicos.
-Cuidar a las personas, proteger el suelo, cuidar el agua, preservar la vida, evitar los agroquímicos, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
-Obtenga ingresos pasivos tokenizando sus productos agroecológicos y proporcionando liquidez
-Buebio te lo pone fácil para que tu capital trabaje para ti, al mismo tiempo que está resolviendo un problema gigante, dado que muy pocos productos son ultra líquidos.
+Cuidar a las personas, proteger el suelo, cuidar el agua, preservar la vida, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
+Obtenga ingresos tokenizando sus productos agroecológicos y proporcionando liquidez.
+Buebio te lo pone fácil, al mismo tiempo que está resolviendo un problema gigante, la ILIQUIDEZ de productos de impacto a largo plazo.
 
 ### 🔭 ¿Qué es BueBio?
 Buebio es una solución financiera decentralizada, que ayuda a generar liquidez financiera de productos agroecológicos creando mercados líquidos.
