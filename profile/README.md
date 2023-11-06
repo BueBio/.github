@@ -3,7 +3,7 @@
 ### 🌳 Buebio: Digitalizando la operación productiva
 Estimado hacedor; tu poder puede cambiar las reglas.
 Existimos para brindarte la posibilidad de cuidar el mundo creando mercados de liquidez para productos agroecológicos.
-Cuidar a las personas, proteger el suelo, cuidar el agua, preservar la vida, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
+Conectar personas sin fronteras, proteger el suelo, cuidar el agua, preservar la vida, dar trabajo y restaurar los ecosistemas. Creamos BueBio para esto.
 Obtenga ingresos tokenizando sus productos agroecológicos y proporcionando liquidez.
 Buebio te lo pone fácil, al mismo tiempo que está resolviendo un problema gigante, la ILIQUIDEZ de productos de impacto a largo plazo.
 
